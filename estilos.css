@@ -1,0 +1,20 @@
+.foto{
+    background-image: url(/img/AbrahamZ-removebg-preview.png);
+    background-position: right;
+}
+img{
+    width: 8%;
+}
+.padding-top{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.card-title{
+    font-size: 2.5rem;
+}
+.fotoaz{
+    width: 100%;
+}
+.padding-top-card{
+    padding-top: 1rem;
+}
